@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Vadim Hrashchenko, Ukrainian Web-developer
+- 👋 Hi, I’m Vadim Hrashchenko, Ukrainian Full-Stack Web-developer, 18.yo
 - 👀 I’m interested in React.js Node.js Typescript and etc.
-- 🌱 I’m currently learning Astro.js framework and Strapi CMS
+- 🌱 I’m currently learning ~~Astro.js framework and Strapi CMS~~ Nest.js
