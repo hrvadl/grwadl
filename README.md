@@ -43,6 +43,9 @@ I've been learning Web-development since my first year of university for 1 year.
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/linux/linux_PNG21.png" height="36" alt="Linux" /></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" width="36" height="36" alt="windows" /></a>
 
+### Education
+I'am a 2 year student of National Aerospace University in Kharkriv. <img href="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e8/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png/1200px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png" alt="khai"/>
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/daksnen#3357" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/grwadl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/w6d6g6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vadym-hrashchenko-15844925a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
