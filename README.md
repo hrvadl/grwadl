@@ -44,7 +44,7 @@ I've been learning Web-development since my first year of university for 1 year.
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" width="36" height="36" alt="windows" /></a>
 
 ### Education
-I'am a 2 year student of National Aerospace University in Kharkriv. <img href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logo_Luftfahrtinstitut_Charkiw.svg/1200px-Logo_Luftfahrtinstitut_Charkiw.svg.png" alt="khai"/>
+I'am a 2 year student of National Aerospace University in Kharkriv. <img src="https://www.ua-region.com.ua/firms/logo/02066769.png?ver=1643978764" alt="khai"/>
 
 ### Socials
 
