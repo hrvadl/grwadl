@@ -40,7 +40,7 @@ I've been learning Web-development since my first year of university for 1 year.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
 ### Operating systems
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/linux/linux_PNG21.png" width="36" height="36" alt="Linux" /></a>
 
 ### Socials
 
