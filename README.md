@@ -41,12 +41,13 @@ I've been learning Web-development since my first year of university for 1 year.
 
 ### Operating systems
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/linux/linux_PNG21.png" height="36" alt="Linux" /></a>
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" width="36" height="36" alt="windows" /></a>
 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/daksnen#3357" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/grwadl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/w6d6g6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vadym-hrashchenko-15844925a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>Top Repositories</b>
+<b>My latest projects</b>
 
 <div width="100%" align="center"><a href="https://github.com/grwadl/mysite" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grwadl&repo=mysite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/grwadl/bsa-react2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=grwadl&repo=bsa-react2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
