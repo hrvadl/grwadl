@@ -41,9 +41,15 @@ I've been learning Web-development since my first year of university for 1 year.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
+### Testing  
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="36" height="36" alt="Jest" /></a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" width="36" height="36" alt="Playwright" /></a>
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-128x128.png" width="36" height="36" alt="RTL" /></a>
+
 ### Operating systems
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/linux/linux_PNG21.png" height="36" alt="Linux" /></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" width="36" height="36" alt="windows" /></a>
+
 
 ### Education
 I'm a second year student of National Aerospace University in Kharkriv. <a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e8/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png/1200px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png" height="32" alt="Khai" /></a>
