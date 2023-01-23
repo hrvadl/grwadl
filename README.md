@@ -43,7 +43,7 @@ I've been learning Web-development since my first year of university for 1 year.
 
 ### Testing  
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="36" height="36" alt="Jest" /></a>
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" width="36" height="36" alt="Playwright" /></a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" height="36" alt="Playwright" /></a>
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-128x128.png" width="36" height="36" alt="RTL" /></a>
 
 ### Operating systems
