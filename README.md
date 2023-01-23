@@ -9,8 +9,8 @@ I've been learning Web-development since my first year of university for 1 year.
 * 🌍  I'm based in Dnipro, Ukraine
 * 🖥️  See my portfolio at [github](http://github.com/grwadl)
 * ✉️  You can contact me at [youngwwad@gmail.com](mailto:youngwwad@gmail.com)
-* 🚀  I'm currently working on [Online shop](http://github.com/grwadl/mysite)
-* 🧠  I'm learning Nest JS
+* 🚀  I'm currently working on [Movie App](https://github.com/grwadl/movie-app)
+* 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on some interesting projects
 
 ### Frontend Technologies
