@@ -22,7 +22,7 @@ companies, with direct customer communication.
 
 ### Backend Technologies  
 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://thumbnail.imgbin.com/17/18/7/imgbin-go-programming-language-computer-programming-programmer-programming-language-XSzYiv9EBpwecmPywxTg7F8F4_t.jpg" height="36" alt="Golang" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="36" alt="Golang" /></a>
 <a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="36" alt="Gin" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
