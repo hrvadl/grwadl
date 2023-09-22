@@ -24,6 +24,7 @@ companies, with direct customer communication.
 
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.clipartmax.com/png/middle/288-2881446_image-result-for-golang-go-programming-language-logo.png" width="36" height="36" alt="Golang" /></a>  
 <a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="36" alt="Gin" /></a>  
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/300/433/png-clipart-gopher-programming-language-web-browser-programmer-others-miscellaneous-computer-program.png" width="36" height="36" alt="Golang" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 
