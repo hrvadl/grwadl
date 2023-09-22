@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Vadym Hrashchenko.
 ==========================================================================================================================================
 
-I'm a Full Stack Web developer.
+I'm a Golang engineer.
 -------------------------------
 
 I've been learning Web-development since my first year of university for 1 year. I have experience with React, Nest, Nest, and other JS libraries. I'm very excited to learn something new and become a better developer.
 
 * 🌍  I'm based in Dnipro, Ukraine
-* 🖥️  See my portfolio at [github](http://github.com/grwadl)
-* ✉️  You can contact me at [youngwwad@gmail.com](mailto:youngwwad@gmail.com)
-* 🚀  I'm currently working on [Movie App](https://github.com/grwadl/movie-app)
-* 🧠  I'm learning Next JS
+* 🖥️  See my portfolio at [github](http://github.com/hrvadl)
+* ✉️  You can contact me at [youngwwad@gmail.com](mailto:hrvadleo@gmail.com)
 * 🤝  I'm open to collaborating on some interesting projects
 
 ### Frontend Technologies
@@ -53,7 +51,7 @@ I've been learning Web-development since my first year of university for 1 year.
 
 
 ### Education
-I'm a second year student of National Aerospace University in Kharkriv. <a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e8/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png/1200px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png" height="32" alt="Khai" /></a>
+I'm a third year student of National Aerospace University in Kharkriv. <a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e8/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png/1200px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A5%D0%90%D0%98.png" height="32" alt="Khai" /></a>
 
 ### Socials
 
