@@ -47,7 +47,9 @@ companies, with direct customer communication.
 
 
 ### Education
-I'm a third year student of National Aerospace University in Kharkriv. <a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://k305.khai.edu/images/1200px-_.png" height="30" alt="Khai" /></a>
+<div style="display: flex; align-items: center">
+<p>I'm a third year student of National Aerospace University in Kharkriv.</p> <a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://k305.khai.edu/images/1200px-_.png" height="30" alt="Khai" /></a>
+</div>
 
 ### Socials
 
