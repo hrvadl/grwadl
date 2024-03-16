@@ -1,6 +1,6 @@
 Hi, my name is Vadym Hrashchenko.
 ==========================================================================================================================================
-I've worked with: 
+I'm a *Go engineer* and I've worked with: 
 
 ### Languages  
 
