@@ -24,8 +24,7 @@ Hi, my name is Vadym Hrashchenko.
 ### Tools
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" height="36" alt="NeoVim" /></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="36" alt="Jenkins" /></a>
-
-<img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" height="36" alt="Bash" />
+<span><img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" height="36" alt="Bash" /></span>
 
 ### Education
 
