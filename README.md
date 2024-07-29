@@ -1,5 +1,7 @@
 Hi, my name is Vadym Hrashchenko.
 ==========================================================================================================================================
+[![Vadym profile views](https://u8views.com/api/v1/github/profiles/93580374/views/day-week-month-total-count.svg)](https://u8views.com/github/hrvadl)
+
 ![gopher dancing](./dancing-gopher.gif)
 
 I'm a *Go engineer* and I've worked with: 
@@ -37,5 +39,3 @@ I'm a fourth-year student at National Aerospace University in Kharkiv.
 
 <p align="left"> <a href="https://www.github.com/grwadl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/vadym-hrashchenko/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-[![Vadym profile views](https://u8views.com/api/v1/github/profiles/93580374/views/day-week-month-total-count.svg)](https://u8views.com/github/hrvadl)
