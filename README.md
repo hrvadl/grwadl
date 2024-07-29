@@ -27,7 +27,7 @@ I'm a *Go engineer* and I've worked with:
 
 ### Education
 
-I'm a third year student of National Aerospace University in Kharkriv.
+I'm a fourth-year student at National Aerospace University in Kharkiv.
 <br />
 <a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://k305.khai.edu/images/1200px-_.png" height="30" alt="Khai" /></a>
 
