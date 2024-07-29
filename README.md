@@ -1,5 +1,7 @@
 Hi, my name is Vadym Hrashchenko.
 ==========================================================================================================================================
+![image](https://github.com/user-attachments/assets/ee2a6457-03d1-4f4e-9552-6ca9ae685812)
+
 I'm a *Go engineer* and I've worked with: 
 
 ### Languages  
