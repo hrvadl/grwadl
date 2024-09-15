@@ -1,4 +1,4 @@
-Hi, my name is Vadym Hrashchenko.
+Hi, my name is Vadym.
 ==========================================================================================================================================
 [![Vadym profile views](https://u8views.com/api/v1/github/profiles/93580374/views/day-week-month-total-count.svg)](https://u8views.com/github/hrvadl)
 
